@@ -7,10 +7,18 @@
 - B.S., Business Management | Universidad Austral de Chile (_May 2018_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Business Data Analyst - Freelance Consultant @ Clients: Upwork, Utest. (_11/2020 - 06/2023_)**
+- Conducted comprehensive market research by collecting, organizing, and analyzing industry-specific data.
+- Designed and developed data dashboards using several tools and libraries, including RStudio, Python ( with libraries like Matplotlib, Seaborn, and Plotly), Tableau, and Power BI.
+- Developed and executed various manual testing scenarios for AI projects on human behavior recognition using (iOS) and exceptionally documented the process to perform functional testing of the application.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Course Coordinator @ University of Galway (_01/2022 - 05/2022_)**
+- Conducted online sessions for 20 students and their business mentors, fostering the development of exceptional business ideas.
+- Managed student progress with a comprehensive database and timely follow-up.
+- Collaborated with other facilitators to coordinate resources and ensure a cohesive learning environment.
+- 
+- **Intern @ Santander Bank (_01/2016 - 03/2016_)**
+- Conducted payment processing for loans, utilities, and credit cards.
+- Facilitated customer follow-up, utilizing the in-house CRM system to update account details, resulting in a 20% reduction in unresolved queries.
+- Gathered valuable data through meticulous research and observation.
+  
