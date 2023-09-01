@@ -3,3 +3,11 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 gem "github-pages", group: :jekyll_plugins
+
+
+
+title: [Katherine Saavedra]
+description: [Enthusiastic and detail-oriented analyst driving strategic decisions
+and process optimization through advanced data analysis.
+Empowering stakeholders with confident choices and delivering
+actionable insights for remarkable success.]
