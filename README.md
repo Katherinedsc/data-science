@@ -7,10 +7,11 @@
 - B.S., Business Management | Universidad Austral de Chile (_October 2018_)
 
 ## Work Experience
-**Business Data Analyst - Freelance Consultant @ Clients: Upwork, Utest. (_11/2020 - 06/2023_)**
-- Conducted comprehensive market research by collecting, organizing, and analyzing industry-specific data.
-- Designed and developed data dashboards using several tools and libraries, including RStudio, Python ( with libraries like Matplotlib, Seaborn, and Plotly), Tableau, and Power BI.
-- Developed and executed various manual testing scenarios for AI projects on human behavior recognition using (iOS) and exceptionally documented the process to perform functional testing of the application.
+**Bilingual Data Analyst & Market Research Specialist - Freelance Consultant @ Clients: Upwork, Utest, Usertesting. (_11/2020 - 06/2023_)**
+- Analyzed market trends using Excel, processed customer reviews with Python, and segmented records using SQL for targeted marketing.
+- Interacted with over 50 clients to discern their individual data analysis needs, providing customized solutions aligned with their specific business goals.
+- Created and deployed interactive visualization dashboards using Tableau and Excel, facilitating data-driven presentations for key stakeholders.
+- Led bi-weekly meetings to foster effective communication and collaboration, including the creation of regular reports.
 
 **Course Coordinator @ University of Galway (_01/2022 - 05/2022_)**
 - Conducted online sessions for 20 students and their business mentors, fostering the development of exceptional business ideas.
@@ -18,7 +19,7 @@
 - Collaborated with other facilitators to coordinate resources and ensure a cohesive learning environment.
 
 **Intern @ Santander Bank (_01/2016 - 03/2016_)**
-- Conducted payment processing for loans, utilities, and credit cards.
-- Facilitated customer follow-up, utilizing the in-house CRM system to update account details, resulting in a 20% reduction in unresolved queries.
-- Gathered valuable data through meticulous research and observation.
+- Conducted efficient and accurate data entry, verification, and maintenance of customer records.
+- Formulated clear responses to intricate financial inquiries, boosting customer satisfaction by 20% through effective communication.
+- Completed 10+ time-sensitive projects, consistently meeting tight deadlines and achieving 100% project delivery success.
   
