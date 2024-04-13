@@ -7,7 +7,7 @@
 - B.S., Business Management | Universidad Austral de Chile (_October 2018_)
 
 ## Work Experience
-**Bilingual Data Analyst & Market Research Specialist - Freelance Consultant @ Clients: Upwork, Utest, Usertesting. (_11/2020 - 06/2023_)**
+**Bilingual Data Analyst & Market Research Specialist - Freelance Consultant - Clients: Upwork, Utest, Usertesting. (_11/2020 - 06/2023_)**
 - Analyzed market trends using Excel, processed customer reviews with Python, and segmented records using SQL for targeted marketing.
 - Interacted with over 50 clients to discern their individual data analysis needs, providing customized solutions aligned with their specific business goals.
 - Created and deployed interactive visualization dashboards using Tableau and Excel, facilitating data-driven presentations for key stakeholders.
